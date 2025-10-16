@@ -92,7 +92,7 @@ const Contact = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-bold text-primary mb-2">09-XXX-XXXX</p>
+                <p className="text-2xl font-bold text-primary mb-2">+64 274 224 714</p>
                 <p className="text-muted-foreground">24/7 Emergency Support Available</p>
               </CardContent>
             </Card>
