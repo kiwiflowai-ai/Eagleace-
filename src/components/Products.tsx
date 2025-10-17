@@ -74,15 +74,12 @@ const Products = () => {
                   ))}
                 </div>
                 
-                <div className="flex gap-3">
+                <div>
                   <a href={index === 0 ? "/alarms" : index === 1 ? "/cctv" : index === 2 ? "/electrical" : "/appliances"}>
-                    <Button className="flex-1 bg-primary hover:bg-primary/90 text-white font-medium py-3 rounded-xl">
+                    <Button className="w-full bg-primary hover:bg-primary/90 text-white font-medium py-3 rounded-xl">
                       Learn More
                     </Button>
                   </a>
-                  <Button className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-200">
-                    Edit
-                  </Button>
                 </div>
               </div>
             </div>
