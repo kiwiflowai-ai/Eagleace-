@@ -21,7 +21,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-muted-foreground">
-              Auckland's trusted security and electrical solutions provider. Protecting and powering homes and businesses 
+              Auckland and Waikato's trusted security and electrical solutions provider. Protecting and powering homes and businesses 
               with cutting-edge technology and professional service.
             </p>
           </div>
@@ -52,6 +52,9 @@ const Footer = () => {
               <li>West Auckland</li>
               <li>East Auckland</li>
               <li>Manukau</li>
+              <li>Hamilton</li>
+              <li>Cambridge</li>
+              <li>Te Awamutu</li>
             </ul>
           </div>
 
@@ -69,7 +72,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground">Auckland, New Zealand</span>
+                <span className="text-muted-foreground">Auckland and Waikato, New Zealand</span>
               </div>
               <div className="flex items-center gap-3">
                 <a 

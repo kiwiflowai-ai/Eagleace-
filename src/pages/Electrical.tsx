@@ -145,7 +145,7 @@ const Electrical = () => {
             Need Electrical Work Done?
           </h2>
           <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
-            Contact Eagle Ace today for a free electrical consultation and quote for your home or business in Auckland.
+            Contact Eagle Ace today for a free electrical consultation and quote for your home or business in Auckland and Waikato.
           </p>
           <a href="#contact">
             <Button variant="premium" size="lg" className="text-base px-8 py-4 h-auto font-medium">

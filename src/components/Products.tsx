@@ -45,7 +45,7 @@ const Products = () => {
             Our Services
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto font-light">
-            Professional installations for residential and commercial properties across Auckland
+            Professional installations for residential and commercial properties across Auckland and Waikato
           </p>
         </div>
 

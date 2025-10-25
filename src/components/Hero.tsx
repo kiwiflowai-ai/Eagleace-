@@ -11,12 +11,12 @@ const Hero = () => {
           
           <h1 className="text-6xl md:text-8xl font-light text-white mb-8 leading-[0.9] tracking-tight">
             Security & Electrical
-            <span className="block font-bold text-primary">Solutions in Auckland</span>
+            <span className="block font-bold text-primary">Solutions in Auckland and Waikato</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed font-light">
             Expert electrical services with <span className="font-medium text-white">5+ years</span> of experience. 
-            Specialising in security systems, electrical installations, and appliance setup across Auckland.
+            Specialising in security systems, electrical installations, and appliance setup across Auckland and Waikato.
           </p>
           
           <div className="mb-12">

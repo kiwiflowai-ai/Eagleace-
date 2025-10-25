@@ -122,8 +122,8 @@ const Contact = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold text-foreground mb-2">Auckland & Surrounding Areas</p>
-                <p className="text-muted-foreground">North Shore, Central, South, West Auckland</p>
+                <p className="text-lg font-semibold text-foreground mb-2">Auckland and Waikato & Surrounding Areas</p>
+                <p className="text-muted-foreground">North Shore, Central, South, West Auckland and Waikato</p>
               </CardContent>
             </Card>
 

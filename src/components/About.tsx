@@ -12,7 +12,7 @@ const About = () => {
             Why Choose Eagle Ace?
           </h2>
           <p className="text-lg text-gray-300 max-w-3xl mx-auto font-light leading-relaxed">
-            Auckland's most trusted professionals for security alarm installations, CCTV camera setups, electrical work, and appliance installations 
+            Auckland and Waikato's most trusted professionals for security alarm installations, CCTV camera setups, electrical work, and appliance installations 
             for both residential and commercial properties across the region.
           </p>
           
@@ -81,7 +81,7 @@ const About = () => {
                   </div>
                   <h4 className="font-semibold text-foreground">Local Experts</h4>
                 </div>
-                <p className="text-sm text-muted-foreground">Auckland-based specialists</p>
+                <p className="text-sm text-muted-foreground">Auckland and Waikato-based specialists</p>
               </div>
             </div>
           </div>
@@ -112,15 +112,15 @@ const About = () => {
             <div>
               <h4 className="text-xl font-semibold text-primary mb-3">🏠 100% Locally Owned</h4>
               <p className="text-muted-foreground font-light leading-relaxed">
-                We're proud to be Auckland-based, understanding local needs and providing 
+                We're proud to be Auckland and Waikato-based, understanding local needs and providing 
                 personalized service to our community.
               </p>
             </div>
             <div>
-              <h4 className="text-xl font-semibold text-primary mb-3">🛡️ Trusted by Auckland</h4>
+              <h4 className="text-xl font-semibold text-primary mb-3">🛡️ Trusted by Auckland and Waikato</h4>
               <p className="text-muted-foreground font-light leading-relaxed">
                 Join 50+ satisfied customers who trust Eagle Ace for their 
-                security and electrical needs across Auckland and surrounding areas.
+                security and electrical needs across Auckland and Waikato and surrounding areas.
               </p>
             </div>
           </div>
