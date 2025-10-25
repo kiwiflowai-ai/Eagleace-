@@ -74,15 +74,15 @@ const Hero = () => {
               <div className="space-y-2 text-gray-300">
                 <div className="flex items-center gap-2">
                   <div className="w-1 h-1 bg-primary rounded-full"></div>
-                  <span>Residential & Commercial Electrical</span>
+                  <span>Switchboard Upgrades & Repairs</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-1 h-1 bg-primary rounded-full"></div>
-                  <span>Switchboard Upgrades</span>
+                  <span>Power Point & Light Fitting Installation</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-1 h-1 bg-primary rounded-full"></div>
-                  <span>New Builds & Rewires</span>
+                  <span>New Builds, Rewires & Renovations</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-1 h-1 bg-primary rounded-full"></div>

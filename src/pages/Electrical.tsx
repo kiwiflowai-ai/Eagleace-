@@ -8,24 +8,24 @@ import sensorsImage from "@/assets/sensors.jpg";
 const Electrical = () => {
   const features = [
     {
-      icon: Zap,
-      title: "Residential & Commercial",
-      description: "Expert electrical work for both homes and businesses with certified installations."
+      icon: Settings,
+      title: "Switchboard Upgrades & Repairs",
+      description: "Modern switchboard upgrades and repairs to improve safety, accommodate new electrical loads, and meet current standards."
     },
     {
-      icon: Wrench,
-      title: "Switchboard Upgrades",
-      description: "Modern switchboard upgrades to improve safety and accommodate new electrical loads."
+      icon: Zap,
+      title: "Power Points & Lighting",
+      description: "Installation of power points, light fittings, and complete lighting solutions for homes and businesses."
     },
     {
       icon: Home,
       title: "New Builds & Rewires",
-      description: "Complete electrical installations for new constructions and comprehensive rewiring projects."
+      description: "Complete electrical installations for new constructions, home renovations, and comprehensive rewiring projects."
     },
     {
       icon: Lightbulb,
-      title: "Heatpump Installations",
-      description: "Professional heatpump installation and setup for optimal heating and cooling efficiency."
+      title: "Safety & Compliance",
+      description: "Safety switch installation, electrical testing, and compliance certification for all electrical work."
     }
   ];
 
@@ -34,23 +34,23 @@ const Electrical = () => {
       name: "Residential Electrical",
       price: "From $150/hr",
       features: [
+        "Switchboard Upgrades & Repairs",
         "Power Point Installation",
         "Light Fitting Installation",
-        "Switchboard Upgrades",
         "Safety Switch Installation",
-        "Electrical Testing",
-        "Warranty Support"
+        "Electrical Testing & Certification",
+        "Rewiring & Renovations"
       ]
     },
     {
       name: "Commercial Electrical",
       price: "From $180/hr",
       features: [
-        "Commercial Wiring",
+        "Commercial Switchboards",
         "Three Phase Installations",
         "Emergency Lighting",
-        "Power Distribution",
-        "Compliance Testing",
+        "Power Distribution Systems",
+        "Compliance Testing & Certification",
         "Maintenance Contracts"
       ]
     },
@@ -59,11 +59,11 @@ const Electrical = () => {
       price: "From $899",
       features: [
         "Heatpump Supply & Install",
+        "Dedicated Circuit Installation",
         "Electrical Connections",
-        "Ductwork Installation",
-        "System Testing",
+        "System Testing & Commissioning",
         "Warranty Registration",
-        "User Training"
+        "User Training & Support"
       ]
     }
   ];
@@ -82,8 +82,9 @@ const Electrical = () => {
                 <span className="block text-primary">Services</span>
               </h1>
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                Residential and commercial electrical work including switchboard upgrades and new installations. 
-                Professional electrical services with certified technicians and quality workmanship.
+                Professional electrical services including switchboard upgrades & repairs, power point installation, 
+                lighting solutions, and complete rewiring. Certified electricians delivering safe, reliable electrical 
+                work for residential and commercial properties.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a href="/#contact">

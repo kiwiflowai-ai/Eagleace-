@@ -23,10 +23,10 @@ const Products = () => {
     },
     {
       title: "Electrical Services",
-      description: "Residential and commercial electrical work including switchboard upgrades and new installations.",
+      description: "Expert electrical services including switchboard upgrades, power points, lighting, and complete rewiring for homes and businesses.",
       image: sensorsImage,
       icon: Wrench,
-      features: ["Residential & Commercial", "Switchboard Upgrades", "New Builds & Rewires", "Heatpump Installations"]
+      features: ["Switchboard Upgrades & Repairs", "Power Points & Lighting", "New Builds & Rewires", "Safety Switch Installation"]
     },
     {
       title: "Appliance Installations",
